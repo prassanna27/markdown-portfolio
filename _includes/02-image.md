@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+ _includes/02-image.md
+ ![image](https://user-images.githubusercontent.com/94218817/141765463-d9588795-02fa-4955-9b06-a237db97abf1.png)
